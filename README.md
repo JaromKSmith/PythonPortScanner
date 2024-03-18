@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/IvIaveIG)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12474770&assignment_repo_type=AssignmentRepo)
+
 **Objective:** The objective of this assignment is to create a Python script for a port scanner, which provides functionality for scanning target hosts and ports, saving scan results, and retrieving saved scan results. Students will demonstrate their understanding of network programming, user interaction, file handling, and data serialization in Python.  
 
 Be sure to follow cybersecurity best practices and ethics when testing and using this script.  Only use it again devices that you have permission/authorization to scan.  See: SANS - Ethics and Legality of Port Scanning
